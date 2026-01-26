@@ -1,0 +1,16 @@
+{
+    "name": "input-sense",
+    "version": "0.1.0",
+    "description": "Detects low-quality, fake, or placeholder user inputs beyond regex validation",
+    "type": "module",
+    "main": "index.js",
+    "keywords": [
+        "validation",
+        "input",
+        "forms",
+        "sanity-check",
+        "user-input"
+    ],
+    "author": "Harshit Patle",
+    "license": "MIT"
+}
