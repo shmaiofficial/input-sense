@@ -1,6 +1,6 @@
-[![npm version](https://img.shields.io/npm/v/input-sense)](https://www.npmjs.com/package/input-sense)
-[![npm downloads](https://img.shields.io/npm/dw/input-sense)](https://www.npmjs.com/package/input-sense)
-[![license](https://img.shields.io/npm/l/input-sense)](./LICENSE)
+![npm version](https://img.shields.io/npm/v/input-sense.svg)
+![npm downloads](https://img.shields.io/npm/dw/input-sense.svg)
+![license](https://img.shields.io/github/license/Harshit-Patle/input-sense)
 
 ---
 
