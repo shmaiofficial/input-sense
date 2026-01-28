@@ -1,0 +1,1 @@
+export function senseInput(value: string): string | null;
