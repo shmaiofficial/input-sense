@@ -10,7 +10,11 @@
     "input",
     "forms",
     "sanity-check",
-    "user-input"
+    "user-input",
+    "form-validation",
+    "data-quality",
+    "input-validation",
+    "developer-tools"
   ],
   "author": "Harshit Patle",
   "license": "MIT",
