@@ -42,6 +42,7 @@ input-sense helps detect such inputs early and improve overall data quality.
 - Allows enabling/disabling specific rules
 - Lightweight and dependency-free
 - Frontend-friendly
+- Includes automated tests for core validation logic
 
 ---
 
