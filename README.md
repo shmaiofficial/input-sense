@@ -4,7 +4,6 @@
 
 ---
 
-
 # input-sense
 
 A lightweight JavaScript utility that detects low-quality, fake, or placeholder user inputs that pass traditional regex validation.
@@ -59,6 +58,7 @@ Using **yarn**:
 ```bash
 yarn add input-sense
 ```
+
 Using **pnpm**:
 
 ```bash
@@ -104,6 +104,7 @@ senseInput("aa", {
   disable: ["repeatedChar"]
 });
 ```
+
 ---
 
 ## Example Outputs
